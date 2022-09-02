@@ -1,0 +1,51 @@
+.container-fluid {
+    background-color: #C0C0C0;
+    height: 90px;
+    margin-right: 90px;
+    margin-left:90px;
+}
+.footer {
+    background-color: #C0C0C0;
+    height: 150px;
+    color: white;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top:20px;
+}
+ 
+
+.container {
+    margin-top: 20px;
+}
+    .container text-center {
+        margin-top: 20px;
+        margin-right: 20px;
+       
+       
+    }
+.row {
+    margin-top: 25px;
+
+}
+.fa-twitter, .fa-facebook-square {
+    color: #2E86C1;
+}
+
+.footer .nav-link {
+    color: blue;
+}
+
+.fa-youtube-play, .fa-instagram {
+    color: #E74C3C;
+}
+.mb-3{
+    margin-left:150px;
+    margin-right:200px;
+}
+.nav-item {
+    height: 40px;
+    width: 300px;
+}
+
+
+
